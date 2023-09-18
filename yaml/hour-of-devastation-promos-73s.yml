@@ -1,0 +1,117 @@
+---
+object: card
+id: a44ffe83-a3eb-481f-849f-cdb1c4e9cd87
+oracle_id: 136c9ecb-59b4-4ef6-bcb2-7b8d3df3ee75
+multiverse_ids: []
+tcgplayer_id: 137160
+cardmarket_id: 299012
+name: Razaketh, the Foulblooded
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87
+scryfall_uri: https://scryfall.com/card/phou/73s/razaketh-the-foulblooded?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.jpg?1562230884
+  normal: https://cards.scryfall.io/normal/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.jpg?1562230884
+  large: https://cards.scryfall.io/large/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.jpg?1562230884
+  png: https://cards.scryfall.io/png/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.png?1562230884
+  art_crop: https://cards.scryfall.io/art_crop/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.jpg?1562230884
+  border_crop: https://cards.scryfall.io/border_crop/front/a/4/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87.jpg?1562230884
+mana_cost: "{5}{B}{B}{B}"
+cmc: 8.0
+type_line: Legendary Creature — Demon
+oracle_text: |-
+  Flying, trample
+  Pay 2 life, Sacrifice another creature: Search your library for a card, put that card into your hand, then shuffle.
+power: '8'
+toughness: '8'
+colors:
+- B
+color_identity:
+- B
+keywords:
+- Flying
+- Trample
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/a44ffe83-a3eb-481f-849f-cdb1c4e9cd87/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A136c9ecb-59b4-4ef6-bcb2-7b8d3df3ee75&unique=prints
+collector_number: 73s
+digital: false
+rarity: mythic
+flavor_text: Liliana insisted on coming to Amonkhet to confront one of the two remaining
+  demons to whom she is bound.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Chris Rallis
+artist_ids:
+- a8e7b854-b15a-421a-b66d-6e68187ae285
+illustration_id: 99b26db0-8a08-4284-bd4d-d6ed11f35ff4
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 1131
+penny_rank: 11157
+prices:
+  usd: 
+  usd_foil: '32.05'
+  usd_etched: 
+  eur: 
+  eur_foil: '21.50'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Razaketh%2C+the+Foulblooded&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Razaketh%2C+the+Foulblooded&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Razaketh%2C+the+Foulblooded
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137160?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Razaketh%2C+the+Foulblooded&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Razaketh%2C+the+Foulblooded&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

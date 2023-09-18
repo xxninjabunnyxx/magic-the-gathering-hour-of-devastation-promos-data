@@ -1,0 +1,111 @@
+---
+object: card
+id: 193a4aad-4c31-42dc-9a6e-c86df8e262a6
+oracle_id: af4d3489-6bba-4538-928c-50c9a7073813
+multiverse_ids: []
+tcgplayer_id: 137139
+cardmarket_id: 298987
+name: Hazoret's Undying Fury
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/193a4aad-4c31-42dc-9a6e-c86df8e262a6
+scryfall_uri: https://scryfall.com/card/phou/96s/hazorets-undying-fury?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.jpg?1562230643
+  normal: https://cards.scryfall.io/normal/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.jpg?1562230643
+  large: https://cards.scryfall.io/large/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.jpg?1562230643
+  png: https://cards.scryfall.io/png/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.png?1562230643
+  art_crop: https://cards.scryfall.io/art_crop/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.jpg?1562230643
+  border_crop: https://cards.scryfall.io/border_crop/front/1/9/193a4aad-4c31-42dc-9a6e-c86df8e262a6.jpg?1562230643
+mana_cost: "{4}{R}{R}"
+cmc: 6.0
+type_line: Sorcery
+oracle_text: Shuffle your library, then exile the top four cards. You may cast any
+  number of spells with mana value 5 or less from among them without paying their
+  mana costs. Lands you control don't untap during your next untap step.
+colors:
+- R
+color_identity:
+- R
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/193a4aad-4c31-42dc-9a6e-c86df8e262a6/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Aaf4d3489-6bba-4538-928c-50c9a7073813&unique=prints
+collector_number: 96s
+digital: false
+rarity: rare
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Victor Adame Minguez
+artist_ids:
+- bd8f7368-5b10-4554-b6b8-d052c6aca89f
+illustration_id: 5cca91e9-341a-4fc0-97a7-5a7cf91f8a8f
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 15444
+penny_rank: 2064
+prices:
+  usd: 
+  usd_foil: '0.35'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.10'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Hazoret%27s+Undying+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Hazoret%27s+Undying+Fury&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Hazoret%27s+Undying+Fury
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137139?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Hazoret%27s+Undying+Fury&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Hazoret%27s+Undying+Fury&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

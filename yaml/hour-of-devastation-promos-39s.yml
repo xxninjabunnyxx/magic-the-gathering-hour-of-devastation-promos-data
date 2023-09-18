@@ -1,0 +1,112 @@
+---
+object: card
+id: 0c91fa65-a561-48d6-b2e3-11d13ac4a525
+oracle_id: 67cf6ba1-55ad-4008-ba1f-96c363a96b16
+multiverse_ids: []
+tcgplayer_id: 137148
+cardmarket_id: 298976
+name: Kefnet's Last Word
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/0c91fa65-a561-48d6-b2e3-11d13ac4a525
+scryfall_uri: https://scryfall.com/card/phou/39s/kefnets-last-word?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.jpg?1562230635
+  normal: https://cards.scryfall.io/normal/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.jpg?1562230635
+  large: https://cards.scryfall.io/large/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.jpg?1562230635
+  png: https://cards.scryfall.io/png/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.png?1562230635
+  art_crop: https://cards.scryfall.io/art_crop/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.jpg?1562230635
+  border_crop: https://cards.scryfall.io/border_crop/front/0/c/0c91fa65-a561-48d6-b2e3-11d13ac4a525.jpg?1562230635
+mana_cost: "{2}{U}{U}"
+cmc: 4.0
+type_line: Sorcery
+oracle_text: Gain control of target artifact, creature, or enchantment. Lands you
+  control don't untap during your next untap step.
+colors:
+- U
+color_identity:
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/0c91fa65-a561-48d6-b2e3-11d13ac4a525/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A67cf6ba1-55ad-4008-ba1f-96c363a96b16&unique=prints
+collector_number: 39s
+digital: false
+rarity: rare
+flavor_text: In his final moments, Kefnet reached into the minds of those around him,
+  desperate for logic within the consuming chaos.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Clint Cearley
+artist_ids:
+- 03b75350-d5a0-4e3a-b3b4-8d4a5554385b
+illustration_id: cdf7dd53-71ee-4a7b-a0b2-ab8a8b741103
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 15763
+penny_rank: 7056
+prices:
+  usd: 
+  usd_foil: '0.35'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.25'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Kefnet%27s+Last+Word&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Kefnet%27s+Last+Word&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Kefnet%27s+Last+Word
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137148?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Kefnet%27s+Last+Word&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Kefnet%27s+Last+Word&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

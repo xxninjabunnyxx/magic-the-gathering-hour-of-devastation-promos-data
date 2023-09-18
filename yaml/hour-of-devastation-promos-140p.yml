@@ -1,0 +1,119 @@
+---
+object: card
+id: c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1
+oracle_id: cb33e07b-9599-4979-991f-df0c43ddac31
+multiverse_ids: []
+tcgplayer_id: 237359
+cardmarket_id: 560939
+name: Nicol Bolas, God-Pharaoh
+lang: en
+released_at: '2021-04-24'
+uri: https://api.scryfall.com/cards/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1
+scryfall_uri: https://scryfall.com/card/phou/140p/nicol-bolas-god-pharaoh?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.jpg?1622475803
+  normal: https://cards.scryfall.io/normal/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.jpg?1622475803
+  large: https://cards.scryfall.io/large/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.jpg?1622475803
+  png: https://cards.scryfall.io/png/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.png?1622475803
+  art_crop: https://cards.scryfall.io/art_crop/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.jpg?1622475803
+  border_crop: https://cards.scryfall.io/border_crop/front/c/3/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1.jpg?1622475803
+mana_cost: "{4}{U}{B}{R}"
+cmc: 7.0
+type_line: Legendary Planeswalker — Bolas
+oracle_text: |-
+  +2: Target opponent exiles cards from the top of their library until they exile a nonland card. Until end of turn, you may cast that card without paying its mana cost.
+  +1: Each opponent exiles two cards from their hand.
+  −4: Nicol Bolas, God-Pharaoh deals 7 damage to target opponent, creature an opponent controls, or planeswalker an opponent controls.
+  −12: Exile each nonland permanent your opponents control.
+loyalty: '7'
+colors:
+- B
+- R
+- U
+color_identity:
+- B
+- R
+- U
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: not_legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: true
+finishes:
+- nonfoil
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/c3d3bc3a-0c88-41ad-8607-f56cd4aa71d1/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Acb33e07b-9599-4979-991f-df0c43ddac31&unique=prints
+collector_number: 140p
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Raymond Swanland
+artist_ids:
+- e956bacc-077d-4c12-b6bc-ba798b718af9
+illustration_id: ea78d244-7a8c-4754-8118-d3267dedafbd
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- promopack
+- stamped
+edhrec_rank: 3090
+penny_rank: 363
+prices:
+  usd: '3.43'
+  usd_foil: '5.36'
+  usd_etched: 
+  eur: '2.00'
+  eur_foil: '5.89'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Nicol+Bolas%2C+God-Pharaoh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Nicol+Bolas%2C+God-Pharaoh&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Nicol+Bolas%2C+God-Pharaoh
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/237359?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Nicol+Bolas%2C+God-Pharaoh&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Nicol+Bolas%2C+God-Pharaoh&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

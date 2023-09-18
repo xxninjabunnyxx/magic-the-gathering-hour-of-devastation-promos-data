@@ -1,0 +1,113 @@
+---
+object: card
+id: 45147b91-3546-464c-bb53-0f9e28fa600d
+oracle_id: 5ece7d03-9ee7-4953-a06e-9d8e41874903
+multiverse_ids: []
+tcgplayer_id: 137166
+cardmarket_id: 299008
+name: Scavenger Grounds
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/45147b91-3546-464c-bb53-0f9e28fa600d
+scryfall_uri: https://scryfall.com/card/phou/182s/scavenger-grounds?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.jpg?1562230674
+  normal: https://cards.scryfall.io/normal/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.jpg?1562230674
+  large: https://cards.scryfall.io/large/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.jpg?1562230674
+  png: https://cards.scryfall.io/png/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.png?1562230674
+  art_crop: https://cards.scryfall.io/art_crop/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.jpg?1562230674
+  border_crop: https://cards.scryfall.io/border_crop/front/4/5/45147b91-3546-464c-bb53-0f9e28fa600d.jpg?1562230674
+mana_cost: ''
+cmc: 0.0
+type_line: Land — Desert
+oracle_text: |-
+  {T}: Add {C}.
+  {2}, {T}, Sacrifice a Desert: Exile all graveyards.
+colors: []
+color_identity: []
+keywords: []
+produced_mana:
+- C
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/45147b91-3546-464c-bb53-0f9e28fa600d/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A5ece7d03-9ee7-4953-a06e-9d8e41874903&unique=prints
+collector_number: 182s
+digital: false
+rarity: rare
+flavor_text: When the last scrap of flesh is scoured away, the Curse of Wandering
+  ends. Then the dead may sleep.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Steven Belledin
+artist_ids:
+- f07d73b9-52a0-4fe5-858b-61f7b42174a5
+illustration_id: e4cbf411-b03f-4f5c-a3a5-9a3218e540d7
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 285
+penny_rank: 1000
+prices:
+  usd: 
+  usd_foil: '10.60'
+  usd_etched: 
+  eur: 
+  eur_foil: '3.97'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Scavenger+Grounds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Scavenger+Grounds&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Scavenger+Grounds
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137166?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Scavenger+Grounds&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Scavenger+Grounds&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

@@ -1,0 +1,113 @@
+---
+object: card
+id: d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087
+oracle_id: c39dca94-3849-4edb-bba9-e7a2eefa5021
+multiverse_ids: []
+tcgplayer_id: 137150
+cardmarket_id: 299014
+name: Majestic Myriarch
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087
+scryfall_uri: https://scryfall.com/card/phou/122s/majestic-myriarch?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.jpg?1562230948
+  normal: https://cards.scryfall.io/normal/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.jpg?1562230948
+  large: https://cards.scryfall.io/large/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.jpg?1562230948
+  png: https://cards.scryfall.io/png/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.png?1562230948
+  art_crop: https://cards.scryfall.io/art_crop/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.jpg?1562230948
+  border_crop: https://cards.scryfall.io/border_crop/front/d/1/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087.jpg?1562230948
+mana_cost: "{4}{G}"
+cmc: 5.0
+type_line: Creature — Chimera
+oracle_text: |-
+  Majestic Myriarch's power and toughness are each equal to twice the number of creatures you control.
+  At the beginning of each combat, Majestic Myriarch gains flying until end of turn if you control a creature with flying. The same is true for first strike, double strike, deathtouch, haste, hexproof, indestructible, lifelink, menace, reach, trample, and vigilance.
+power: "*"
+toughness: "*"
+colors:
+- G
+color_identity:
+- G
+keywords: []
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: legal
+  gladiator: legal
+  pioneer: legal
+  explorer: legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/d19aa3f1-d10a-4e2b-b9c0-bcb22e49b087/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3Ac39dca94-3849-4edb-bba9-e7a2eefa5021&unique=prints
+collector_number: 122s
+digital: false
+rarity: mythic
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Randy Vargas
+artist_ids:
+- d20672ca-0555-4238-a984-fd171d36b247
+illustration_id: cf2aaebf-018b-4d6f-a3dc-861dc2ba1ebf
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 8770
+penny_rank: 13473
+prices:
+  usd: 
+  usd_foil: '1.54'
+  usd_etched: 
+  eur: 
+  eur_foil: '1.60'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Majestic+Myriarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Majestic+Myriarch&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Majestic+Myriarch
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137150?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Majestic+Myriarch&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Majestic+Myriarch&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall

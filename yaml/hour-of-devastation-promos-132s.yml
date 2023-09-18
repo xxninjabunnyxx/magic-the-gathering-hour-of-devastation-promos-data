@@ -1,0 +1,124 @@
+---
+object: card
+id: ad17d302-0fe3-448f-8420-b7712f9ac164
+oracle_id: 01c729d7-9b80-479d-8d30-ae47c76c2c50
+multiverse_ids: []
+tcgplayer_id: 137164
+cardmarket_id: 298996
+name: Rhonas's Last Stand
+lang: en
+released_at: '2017-07-14'
+uri: https://api.scryfall.com/cards/ad17d302-0fe3-448f-8420-b7712f9ac164
+scryfall_uri: https://scryfall.com/card/phou/132s/rhonass-last-stand?utm_source=api
+layout: normal
+highres_image: true
+image_status: highres_scan
+image_uris:
+  small: https://cards.scryfall.io/small/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.jpg?1562230901
+  normal: https://cards.scryfall.io/normal/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.jpg?1562230901
+  large: https://cards.scryfall.io/large/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.jpg?1562230901
+  png: https://cards.scryfall.io/png/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.png?1562230901
+  art_crop: https://cards.scryfall.io/art_crop/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.jpg?1562230901
+  border_crop: https://cards.scryfall.io/border_crop/front/a/d/ad17d302-0fe3-448f-8420-b7712f9ac164.jpg?1562230901
+mana_cost: "{G}{G}"
+cmc: 2.0
+type_line: Sorcery
+oracle_text: Create a 5/4 green Snake creature token. Lands you control don't untap
+  during your next untap step.
+colors:
+- G
+color_identity:
+- G
+keywords: []
+all_parts:
+- object: related_card
+  id: ad17d302-0fe3-448f-8420-b7712f9ac164
+  component: combo_piece
+  name: Rhonas's Last Stand
+  type_line: Sorcery
+  uri: https://api.scryfall.com/cards/ad17d302-0fe3-448f-8420-b7712f9ac164
+- object: related_card
+  id: 57708b3d-ddfb-4924-b5c9-123aa9e967ad
+  component: token
+  name: Snake
+  type_line: Token Creature — Snake
+  uri: https://api.scryfall.com/cards/57708b3d-ddfb-4924-b5c9-123aa9e967ad
+legalities:
+  standard: not_legal
+  future: not_legal
+  historic: not_legal
+  gladiator: not_legal
+  pioneer: legal
+  explorer: not_legal
+  modern: legal
+  legacy: legal
+  pauper: not_legal
+  vintage: legal
+  penny: legal
+  commander: legal
+  oathbreaker: legal
+  brawl: not_legal
+  historicbrawl: not_legal
+  alchemy: not_legal
+  paupercommander: not_legal
+  duel: legal
+  oldschool: not_legal
+  premodern: not_legal
+  predh: not_legal
+games:
+- paper
+reserved: false
+foil: true
+nonfoil: false
+finishes:
+- foil
+oversized: false
+promo: true
+reprint: true
+variation: false
+set_id: 220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set: phou
+set_name: Hour of Devastation Promos
+set_type: promo
+set_uri: https://api.scryfall.com/sets/220548b3-7b6a-43e0-a423-8eefe7feb1a0
+set_search_uri: https://api.scryfall.com/cards/search?order=set&q=e%3Aphou&unique=prints
+scryfall_set_uri: https://scryfall.com/sets/phou?utm_source=api
+rulings_uri: https://api.scryfall.com/cards/ad17d302-0fe3-448f-8420-b7712f9ac164/rulings
+prints_search_uri: https://api.scryfall.com/cards/search?order=released&q=oracleid%3A01c729d7-9b80-479d-8d30-ae47c76c2c50&unique=prints
+collector_number: 132s
+digital: false
+rarity: rare
+flavor_text: Rhonas continued to fight until his last breath and even beyond.
+card_back_id: 0aeebaf5-8c7d-4636-9e82-8c27447861f7
+artist: Winona Nelson
+artist_ids:
+- e45fe8d3-75d6-42c9-a2df-e945ad81ea27
+illustration_id: fe5105d9-f232-4872-9ec5-6fd2bca2d565
+border_color: black
+frame: '2015'
+security_stamp: oval
+full_art: false
+textless: false
+booster: false
+story_spotlight: false
+promo_types:
+- setpromo
+- prerelease
+- datestamped
+edhrec_rank: 19226
+penny_rank: 5365
+prices:
+  usd: 
+  usd_foil: '0.42'
+  usd_etched: 
+  eur: 
+  eur_foil: '0.64'
+  tix: 
+related_uris:
+  tcgplayer_infinite_articles: https://infinite.tcgplayer.com/search?contentMode=article&game=magic&partner=scryfall&q=Rhonas%27s+Last+Stand&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  tcgplayer_infinite_decks: https://infinite.tcgplayer.com/search?contentMode=deck&game=magic&partner=scryfall&q=Rhonas%27s+Last+Stand&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  edhrec: https://edhrec.com/route/?cc=Rhonas%27s+Last+Stand
+purchase_uris:
+  tcgplayer: https://www.tcgplayer.com/product/137164?page=1&utm_campaign=affiliate&utm_medium=api&utm_source=scryfall
+  cardmarket: https://www.cardmarket.com/en/Magic/Products/Search?referrer=scryfall&searchString=Rhonas%27s+Last+Stand&utm_campaign=card_prices&utm_medium=text&utm_source=scryfall
+  cardhoarder: https://www.cardhoarder.com/cards?affiliate_id=scryfall&data%5Bsearch%5D=Rhonas%27s+Last+Stand&ref=card-profile&utm_campaign=affiliate&utm_medium=card&utm_source=scryfall
